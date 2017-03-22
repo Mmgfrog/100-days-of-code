@@ -569,3 +569,10 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: So much to do, and I am grateful for Starbucks but need to carve out more coding time.
 
 **Link to work**: Here is the Lynda course https://www.lynda.com/HTML-5-tutorials/HTML5-Video-and-Audio-in-Depth/80781-2.html
+
+##Day 83: March 22, 2017
+**Today's Progress**: Skype call with Emily from Justinmind, then lots of work at Starbucks after lunch. Gave out business cards to Maya + Cory = phone interface updating site, and Linda = jewelry designer.
+
+**Thoughts**: Whiteboard strategy is working. Plus good progress and info from Lynda.com course on HTML5 video and design
+
+**Link to work**: https://www.lynda.com/HTML-tutorials/Understanding-HTML5-video-formats/80781/85003-4.html
