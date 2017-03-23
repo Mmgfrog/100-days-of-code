@@ -576,3 +576,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: Whiteboard strategy is working. Plus good progress and info from Lynda.com course on HTML5 video and design
 
 **Link to work**: https://www.lynda.com/HTML-tutorials/Understanding-HTML5-video-formats/80781/85003-4.html
+
+
+##Day 84: March 23, 2017
+**Today's Progress**: Went through next few sections of MongoDB for Devs course, tested out mongod (working) and mongo (working). Left off on App Architecture Overview section.
+
+**Thoughts**: Glad I got through 54% of Lynda course yesterday. Will need to spend time this weekend. Honestly loving life right now, getting to do exercise, Mom, Starbucks, AND coding. God is so good and is really providing.
+
+**Link to work**: MongoDB University course 101P
