@@ -584,3 +584,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: Glad I got through 54% of Lynda course yesterday. Will need to spend time this weekend. Honestly loving life right now, getting to do exercise, Mom, Starbucks, AND coding. God is so good and is really providing.
 
 **Link to work**: MongoDB University course 101P
+
+
+##Day 85: March 24, 2017
+**Today's Progress**: Completed Lynda.com course on HTML5 Video and Audio In Depth. Very helpful!
+
+**Thoughts**: Now onto actually writing the code for the project. Good to have background knowledge.
+
+**Link to work**: Certificate of completion earned, posted on my LInkedIn profile
