@@ -591,4 +591,12 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 
 **Thoughts**: Now onto actually writing the code for the project. Good to have background knowledge.
 
-**Link to work**: Certificate of completion earned, posted on my LInkedIn profile
+**Link to work**: Certificate of completion earned, posted on my LinkedIn profile
+
+
+##Day 86: March 25, 2017
+**Today's Progress**: Only a tiny bit of working on MongoDB course before I decided I need a nap. Pip intalled Bottle framework. Installing PyMongo next.
+
+**Thoughts**: It's hard to code every single day. Iknow tomorrow afternoon I will work more on this stuff so I feel slightly less guilty.
+
+**Link to work**: MongoDB + Python course
