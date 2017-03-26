@@ -600,3 +600,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: It's hard to code every single day. Iknow tomorrow afternoon I will work more on this stuff so I feel slightly less guilty.
 
 **Link to work**: MongoDB + Python course
+
+
+##Day 87: March 26, 2017
+**Today's Progress**: Began working on the full_screen.html and full_screen.css to make the changes requested (HTML5 video tag instead, etc). Also attended Free Code Camp Dallas and did a lightning talk about HTML54 video and audio, encouraged people to use the Lynda.com resource for free with library account.
+
+**Thoughts**: Making style changes in CSS is getting outside my comfort zone a little bit, especially with other people's CSS.
+
+**Link to work**: Cineparty.co project folder
