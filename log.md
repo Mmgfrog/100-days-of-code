@@ -608,3 +608,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: Making style changes in CSS is getting outside my comfort zone a little bit, especially with other people's CSS.
 
 **Link to work**: Cineparty.co project folder
+
+
+##Day 88: March 27, 2017
+**Today's Progress**: Submitted three homework assignments for the MongoDB + Python course.
+
+**Thoughts**: I am THAT student.
+
+**Link to work**: https://university.mongodb.com/courses/MongoDB/M101P/2017_March/courseware/Chapter_1_Introduction/525480c9e2d4231cc6083fea/vertical_f993ca7aefeb
