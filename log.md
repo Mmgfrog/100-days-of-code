@@ -616,3 +616,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: I am THAT student.
 
 **Link to work**: https://university.mongodb.com/courses/MongoDB/M101P/2017_March/courseware/Chapter_1_Introduction/525480c9e2d4231cc6083fea/vertical_f993ca7aefeb
+
+
+##Day 89, 90: March 28-29, 2017
+**Today's Progress**: Limited progress with customizing the <video> controls. Downloaded mp4s to use to get buttons working.
+
+**Thoughts**: It's almost like I have to overcome the existing CSS. Working with other people's code is challenging.
+
+**Link to work**: Cineparty.co project folder
