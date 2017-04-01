@@ -624,3 +624,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: It's almost like I have to overcome the existing CSS. Working with other people's code is challenging.
 
 **Link to work**: Cineparty.co project folder
+
+
+##Day 91, 92, 93: March 30-31, April 1
+**Today's Progress**: More with MongoDB course. Cineparty.co contract revoked (they are hiring a full-time freelancer instead of part-time intern). Wasn't even a month, but honestly I learned a lot and it's a relief because it frees up time to get back on track with hunting for full-time jobs. I really feel God is shutting a door very clearly.
+
+**Thoughts**: Long talk with Scott. Trying new direction with job applications. I have not submitted a resume lately and that's bad.
+
+**Link to work**: Googled "Top 25 Employers in Dallas" and started investigating whether they are hiring. Need to rework resume too.
