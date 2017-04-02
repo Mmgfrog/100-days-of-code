@@ -632,3 +632,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: Long talk with Scott. Trying new direction with job applications. I have not submitted a resume lately and that's bad.
 
 **Link to work**: Googled "Top 25 Employers in Dallas" and started investigating whether they are hiring. Need to rework resume too.
+
+
+##Day 94: April 2, 2017
+**Today's Progress**: 2 hours Free Code Camp Meetup where we worked on building the Show the Local Weather App exercise. Then another hour or so after I worked on the MongoDB course.
+
+**Thoughts**: So thankful for group of coding buddies and also time to work.
+
+**Link to work**:http://codepen.io/Mmgfrog/pen/VpeQJa
