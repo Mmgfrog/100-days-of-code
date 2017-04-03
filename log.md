@@ -640,3 +640,10 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: So thankful for group of coding buddies and also time to work.
 
 **Link to work**:http://codepen.io/Mmgfrog/pen/VpeQJa
+
+##Day 95: April 3, 2017
+**Today's Progress**: Applied to several jobs and then spent tie on MongoDB course. Doubtful that I will have HW done by tomorrow at noon but will try very hard!
+
+**Thoughts** This was a long coursework section.
+
+**Link to work**: Tutorial for MOngoDB, creating_school.js, using_find.py, etc.
