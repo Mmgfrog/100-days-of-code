@@ -647,3 +647,10 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts** This was a long coursework section.
 
 **Link to work**: Tutorial for MOngoDB, creating_school.js, using_find.py, etc.
+
+##Day 96: April 4, 2017
+**Today's Progress**: Stayed up late and got up early to try to finish the MongoDB course homeworks. Completed 3 of 5. Also last night completed the KIBO personality and cognitive assessments for job.
+
+**Thoughts**: Lesson in humility! I am *that student LOL.
+
+**Link to work**:https://university.mongodb.com/courses/MongoDB/M101P/2017_March/syllabus
