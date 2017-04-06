@@ -654,3 +654,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: Lesson in humility! I am *that student LOL.
 
 **Link to work**:https://university.mongodb.com/courses/MongoDB/M101P/2017_March/syllabus
+
+
+##Day 97, 98: April 5-6, 2017
+**Today's Progress**: On Weds I had a phone interview, and led to setting up an in-person technical interview on Friday. On Thursday I spent time on the MongoDB coursework.
+
+**Thoughts**: I have not spent any additional time preparing for the front-end developer interview - not sure what I would do except try to memorize algorithms. I did look at Angular a little bit. Viewing it as a learning opportunity and I either am ready for this at this point or not.
+
+**Link to work**: MongoDB course, same as before
