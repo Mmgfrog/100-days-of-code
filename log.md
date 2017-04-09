@@ -662,3 +662,13 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: I have not spent any additional time preparing for the front-end developer interview - not sure what I would do except try to memorize algorithms. I did look at Angular a little bit. Viewing it as a learning opportunity and I either am ready for this at this point or not.
 
 **Link to work**: MongoDB course, same as before
+
+##Day 99, 100: April 7-8, 2017
+**Today's Progress**: Interview Friday was rescheduled to Tuesday. Not much coding or job hunting done on Friday, and took a day off on Saturday.
+
+##Day 101: April 9, 2017
+**Today's Progress**: Free Code Camp Meetup for 2 hours, worked on Local Weather App.
+
+**Thoughts**: Worked on design and backend logic
+
+**Link to work**: http://codepen.io/Mmgfrog/pen/VpeQJa
