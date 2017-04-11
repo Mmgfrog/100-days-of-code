@@ -672,3 +672,11 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: Worked on design and backend logic
 
 **Link to work**: http://codepen.io/Mmgfrog/pen/VpeQJa
+
+
+##Day 102: April 10, 2017
+**Today's Progress**: Finished tutorials but none of the HW for MOngoDB course. Sigh. Sent in 5 applications for web dev jobs.
+
+**Thoughts**: Course takes more time than I am giving it.
+
+**Link to work: Indeed and LinkedIn and MongoDB+Python
