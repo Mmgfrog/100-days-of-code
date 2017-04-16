@@ -680,3 +680,5 @@ Went to Arkansas to see the kids and then worked from 8:30-4:00 on Monday, so li
 **Thoughts**: Course takes more time than I am giving it.
 
 **Link to work: Indeed and LinkedIn and MongoDB+Python
+
+Stopping 100 Days of Code to start Another 100 Days of Code after Easter Weekend is over! I have learned a lot and held myself more accountable with coding since I did this challenge. I think I will start another 100 Days chunk after some wonderful quality time with my 3 children, who are in town for 4 days (rare). Coding definitely has ups and downs, like anything else. Interesting, fun, frustrating, exhilarating journey that I have been on, and it's only just begun.
